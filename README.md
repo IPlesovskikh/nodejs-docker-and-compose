@@ -1,4 +1,4 @@
-IP: 51.250.47.177
+IP: http://51.250.47.177
 
 Frontend: https://plesovskikh.nomorepartiessbs.ru
 
