@@ -1,5 +1,5 @@
-IP:
+IP: 51.250.47.177
 
-Frontend:
+Frontend: https://plesovskikh.nomorepartiessbs.ru
 
-Backend:
+Backend: https://api.plesovskikh.nomorepartiessbs.ru
